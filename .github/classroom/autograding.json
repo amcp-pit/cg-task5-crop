@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Test 1",
-      "setup": "g++ ./crop.cpp -o crop -O2 -pedantic-errors",
+      "setup": "",
       "run": "./crop tests/in1.txt out1.bmp",
       "input": "",
       "output": "",
